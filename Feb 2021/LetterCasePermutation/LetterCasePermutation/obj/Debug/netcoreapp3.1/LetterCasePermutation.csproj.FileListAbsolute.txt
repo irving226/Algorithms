@@ -1,0 +1,13 @@
+C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\bin\Debug\netcoreapp3.1\LetterCasePermutation.exe
+C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\bin\Debug\netcoreapp3.1\LetterCasePermutation.deps.json
+C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\bin\Debug\netcoreapp3.1\LetterCasePermutation.runtimeconfig.json
+C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\bin\Debug\netcoreapp3.1\LetterCasePermutation.runtimeconfig.dev.json
+C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\bin\Debug\netcoreapp3.1\LetterCasePermutation.dll
+C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\bin\Debug\netcoreapp3.1\LetterCasePermutation.pdb
+C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.AssemblyInfo.cs
+C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.dll
+C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.pdb
+C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.genruntimeconfig.cache

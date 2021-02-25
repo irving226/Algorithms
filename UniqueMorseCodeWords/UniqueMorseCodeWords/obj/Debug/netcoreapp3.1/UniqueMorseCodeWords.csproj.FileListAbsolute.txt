@@ -1,0 +1,13 @@
+D:\Documents\source\LeetCode Excercises\UniqueMorseCodeWords\UniqueMorseCodeWords\bin\Debug\netcoreapp3.1\UniqueMorseCodeWords.exe
+D:\Documents\source\LeetCode Excercises\UniqueMorseCodeWords\UniqueMorseCodeWords\bin\Debug\netcoreapp3.1\UniqueMorseCodeWords.deps.json
+D:\Documents\source\LeetCode Excercises\UniqueMorseCodeWords\UniqueMorseCodeWords\bin\Debug\netcoreapp3.1\UniqueMorseCodeWords.runtimeconfig.json
+D:\Documents\source\LeetCode Excercises\UniqueMorseCodeWords\UniqueMorseCodeWords\bin\Debug\netcoreapp3.1\UniqueMorseCodeWords.runtimeconfig.dev.json
+D:\Documents\source\LeetCode Excercises\UniqueMorseCodeWords\UniqueMorseCodeWords\bin\Debug\netcoreapp3.1\UniqueMorseCodeWords.dll
+D:\Documents\source\LeetCode Excercises\UniqueMorseCodeWords\UniqueMorseCodeWords\bin\Debug\netcoreapp3.1\UniqueMorseCodeWords.pdb
+D:\Documents\source\LeetCode Excercises\UniqueMorseCodeWords\UniqueMorseCodeWords\obj\Debug\netcoreapp3.1\UniqueMorseCodeWords.csprojAssemblyReference.cache
+D:\Documents\source\LeetCode Excercises\UniqueMorseCodeWords\UniqueMorseCodeWords\obj\Debug\netcoreapp3.1\UniqueMorseCodeWords.AssemblyInfoInputs.cache
+D:\Documents\source\LeetCode Excercises\UniqueMorseCodeWords\UniqueMorseCodeWords\obj\Debug\netcoreapp3.1\UniqueMorseCodeWords.AssemblyInfo.cs
+D:\Documents\source\LeetCode Excercises\UniqueMorseCodeWords\UniqueMorseCodeWords\obj\Debug\netcoreapp3.1\UniqueMorseCodeWords.csproj.CoreCompileInputs.cache
+D:\Documents\source\LeetCode Excercises\UniqueMorseCodeWords\UniqueMorseCodeWords\obj\Debug\netcoreapp3.1\UniqueMorseCodeWords.dll
+D:\Documents\source\LeetCode Excercises\UniqueMorseCodeWords\UniqueMorseCodeWords\obj\Debug\netcoreapp3.1\UniqueMorseCodeWords.pdb
+D:\Documents\source\LeetCode Excercises\UniqueMorseCodeWords\UniqueMorseCodeWords\obj\Debug\netcoreapp3.1\UniqueMorseCodeWords.genruntimeconfig.cache
