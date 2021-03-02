@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\source\\LeetCode Excercises\\Feb 2021\\ContainerWithMostWater\\ContainerWithMostWater\\ContainerWithMostWater.csproj": {}
+    "D:\\GitHub Repository\\Algorithms\\Feb 2021\\ContainerWithMostWater\\ContainerWithMostWater\\ContainerWithMostWater.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\source\\LeetCode Excercises\\Feb 2021\\ContainerWithMostWater\\ContainerWithMostWater\\ContainerWithMostWater.csproj": {
+    "D:\\GitHub Repository\\Algorithms\\Feb 2021\\ContainerWithMostWater\\ContainerWithMostWater\\ContainerWithMostWater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\source\\LeetCode Excercises\\Feb 2021\\ContainerWithMostWater\\ContainerWithMostWater\\ContainerWithMostWater.csproj",
+        "projectUniqueName": "D:\\GitHub Repository\\Algorithms\\Feb 2021\\ContainerWithMostWater\\ContainerWithMostWater\\ContainerWithMostWater.csproj",
         "projectName": "ContainerWithMostWater",
-        "projectPath": "D:\\Documents\\source\\LeetCode Excercises\\Feb 2021\\ContainerWithMostWater\\ContainerWithMostWater\\ContainerWithMostWater.csproj",
+        "projectPath": "D:\\GitHub Repository\\Algorithms\\Feb 2021\\ContainerWithMostWater\\ContainerWithMostWater\\ContainerWithMostWater.csproj",
         "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\source\\LeetCode Excercises\\Feb 2021\\ContainerWithMostWater\\ContainerWithMostWater\\obj\\",
+        "outputPath": "D:\\GitHub Repository\\Algorithms\\Feb 2021\\ContainerWithMostWater\\ContainerWithMostWater\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",

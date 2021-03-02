@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\source\\LeetCode Excercises\\Feb 2021\\LetterCasePermutation\\LetterCasePermutation\\LetterCasePermutation.csproj": {}
+    "D:\\GitHub Repository\\Algorithms\\Feb 2021\\LetterCasePermutation\\LetterCasePermutation\\LetterCasePermutation.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\source\\LeetCode Excercises\\Feb 2021\\LetterCasePermutation\\LetterCasePermutation\\LetterCasePermutation.csproj": {
+    "D:\\GitHub Repository\\Algorithms\\Feb 2021\\LetterCasePermutation\\LetterCasePermutation\\LetterCasePermutation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\source\\LeetCode Excercises\\Feb 2021\\LetterCasePermutation\\LetterCasePermutation\\LetterCasePermutation.csproj",
+        "projectUniqueName": "D:\\GitHub Repository\\Algorithms\\Feb 2021\\LetterCasePermutation\\LetterCasePermutation\\LetterCasePermutation.csproj",
         "projectName": "LetterCasePermutation",
-        "projectPath": "D:\\Documents\\source\\LeetCode Excercises\\Feb 2021\\LetterCasePermutation\\LetterCasePermutation\\LetterCasePermutation.csproj",
+        "projectPath": "D:\\GitHub Repository\\Algorithms\\Feb 2021\\LetterCasePermutation\\LetterCasePermutation\\LetterCasePermutation.csproj",
         "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\source\\LeetCode Excercises\\Feb 2021\\LetterCasePermutation\\LetterCasePermutation\\obj\\",
+        "outputPath": "D:\\GitHub Repository\\Algorithms\\Feb 2021\\LetterCasePermutation\\LetterCasePermutation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,3 +11,16 @@ D:\Documents\source\LeetCode Excercises\MergeTwoBinaryTrees\obj\Debug\netcoreapp
 D:\Documents\source\LeetCode Excercises\MergeTwoBinaryTrees\obj\Debug\netcoreapp3.1\MergeTwoBinaryTrees.pdb
 D:\Documents\source\LeetCode Excercises\MergeTwoBinaryTrees\obj\Debug\netcoreapp3.1\MergeTwoBinaryTrees.genruntimeconfig.cache
 D:\Documents\source\LeetCode Excercises\MergeTwoBinaryTrees\obj\Debug\netcoreapp3.1\MergeTwoBinaryTrees.csprojAssemblyReference.cache
+D:\GitHub Repository\Algorithms\MergeTwoBinaryTrees\bin\Debug\netcoreapp3.1\MergeTwoBinaryTrees.exe
+D:\GitHub Repository\Algorithms\MergeTwoBinaryTrees\bin\Debug\netcoreapp3.1\MergeTwoBinaryTrees.deps.json
+D:\GitHub Repository\Algorithms\MergeTwoBinaryTrees\bin\Debug\netcoreapp3.1\MergeTwoBinaryTrees.runtimeconfig.json
+D:\GitHub Repository\Algorithms\MergeTwoBinaryTrees\bin\Debug\netcoreapp3.1\MergeTwoBinaryTrees.runtimeconfig.dev.json
+D:\GitHub Repository\Algorithms\MergeTwoBinaryTrees\bin\Debug\netcoreapp3.1\MergeTwoBinaryTrees.dll
+D:\GitHub Repository\Algorithms\MergeTwoBinaryTrees\bin\Debug\netcoreapp3.1\MergeTwoBinaryTrees.pdb
+D:\GitHub Repository\Algorithms\MergeTwoBinaryTrees\obj\Debug\netcoreapp3.1\MergeTwoBinaryTrees.csprojAssemblyReference.cache
+D:\GitHub Repository\Algorithms\MergeTwoBinaryTrees\obj\Debug\netcoreapp3.1\MergeTwoBinaryTrees.AssemblyInfoInputs.cache
+D:\GitHub Repository\Algorithms\MergeTwoBinaryTrees\obj\Debug\netcoreapp3.1\MergeTwoBinaryTrees.AssemblyInfo.cs
+D:\GitHub Repository\Algorithms\MergeTwoBinaryTrees\obj\Debug\netcoreapp3.1\MergeTwoBinaryTrees.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\Algorithms\MergeTwoBinaryTrees\obj\Debug\netcoreapp3.1\MergeTwoBinaryTrees.dll
+D:\GitHub Repository\Algorithms\MergeTwoBinaryTrees\obj\Debug\netcoreapp3.1\MergeTwoBinaryTrees.pdb
+D:\GitHub Repository\Algorithms\MergeTwoBinaryTrees\obj\Debug\netcoreapp3.1\MergeTwoBinaryTrees.genruntimeconfig.cache

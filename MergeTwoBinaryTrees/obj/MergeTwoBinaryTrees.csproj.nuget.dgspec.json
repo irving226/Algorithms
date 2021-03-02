@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\source\\LeetCode Excercises\\MergeTwoBinaryTrees\\MergeTwoBinaryTrees.csproj": {}
+    "D:\\GitHub Repository\\Algorithms\\MergeTwoBinaryTrees\\MergeTwoBinaryTrees.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\source\\LeetCode Excercises\\MergeTwoBinaryTrees\\MergeTwoBinaryTrees.csproj": {
+    "D:\\GitHub Repository\\Algorithms\\MergeTwoBinaryTrees\\MergeTwoBinaryTrees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\source\\LeetCode Excercises\\MergeTwoBinaryTrees\\MergeTwoBinaryTrees.csproj",
+        "projectUniqueName": "D:\\GitHub Repository\\Algorithms\\MergeTwoBinaryTrees\\MergeTwoBinaryTrees.csproj",
         "projectName": "MergeTwoBinaryTrees",
-        "projectPath": "D:\\Documents\\source\\LeetCode Excercises\\MergeTwoBinaryTrees\\MergeTwoBinaryTrees.csproj",
+        "projectPath": "D:\\GitHub Repository\\Algorithms\\MergeTwoBinaryTrees\\MergeTwoBinaryTrees.csproj",
         "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\source\\LeetCode Excercises\\MergeTwoBinaryTrees\\obj\\",
+        "outputPath": "D:\\GitHub Repository\\Algorithms\\MergeTwoBinaryTrees\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",

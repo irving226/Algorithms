@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\source\\LeetCode Excercises\\NumberOfRecentPhoneCalls\\NumberOfRecentPhoneCalls.csproj": {}
+    "D:\\GitHub Repository\\Algorithms\\NumberOfRecentPhoneCalls\\NumberOfRecentPhoneCalls.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\source\\LeetCode Excercises\\NumberOfRecentPhoneCalls\\NumberOfRecentPhoneCalls.csproj": {
+    "D:\\GitHub Repository\\Algorithms\\NumberOfRecentPhoneCalls\\NumberOfRecentPhoneCalls.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\source\\LeetCode Excercises\\NumberOfRecentPhoneCalls\\NumberOfRecentPhoneCalls.csproj",
+        "projectUniqueName": "D:\\GitHub Repository\\Algorithms\\NumberOfRecentPhoneCalls\\NumberOfRecentPhoneCalls.csproj",
         "projectName": "NumberOfRecentPhoneCalls",
-        "projectPath": "D:\\Documents\\source\\LeetCode Excercises\\NumberOfRecentPhoneCalls\\NumberOfRecentPhoneCalls.csproj",
+        "projectPath": "D:\\GitHub Repository\\Algorithms\\NumberOfRecentPhoneCalls\\NumberOfRecentPhoneCalls.csproj",
         "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\source\\LeetCode Excercises\\NumberOfRecentPhoneCalls\\obj\\",
+        "outputPath": "D:\\GitHub Repository\\Algorithms\\NumberOfRecentPhoneCalls\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",

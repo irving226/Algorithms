@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\source\\LeetCode Excercises\\LeetCodeExercises\\LeetCodeExercises.csproj",
+      "projectUniqueName": "D:\\GitHub Repository\\Algorithms\\LeetCodeExercises\\LeetCodeExercises.csproj",
       "projectName": "LeetCodeExercises",
-      "projectPath": "D:\\Documents\\source\\LeetCode Excercises\\LeetCodeExercises\\LeetCodeExercises.csproj",
+      "projectPath": "D:\\GitHub Repository\\Algorithms\\LeetCodeExercises\\LeetCodeExercises.csproj",
       "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\source\\LeetCode Excercises\\LeetCodeExercises\\obj\\",
+      "outputPath": "D:\\GitHub Repository\\Algorithms\\LeetCodeExercises\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",

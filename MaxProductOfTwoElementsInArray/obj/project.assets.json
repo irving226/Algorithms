@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\source\\LeetCode Excercises\\MaxProductOfTwoElementsInArray\\MaxProductOfTwoElementsInArray.csproj",
+      "projectUniqueName": "D:\\GitHub Repository\\Algorithms\\MaxProductOfTwoElementsInArray\\MaxProductOfTwoElementsInArray.csproj",
       "projectName": "MaxProductOfTwoElementsInArray",
-      "projectPath": "D:\\Documents\\source\\LeetCode Excercises\\MaxProductOfTwoElementsInArray\\MaxProductOfTwoElementsInArray.csproj",
+      "projectPath": "D:\\GitHub Repository\\Algorithms\\MaxProductOfTwoElementsInArray\\MaxProductOfTwoElementsInArray.csproj",
       "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\source\\LeetCode Excercises\\MaxProductOfTwoElementsInArray\\obj\\",
+      "outputPath": "D:\\GitHub Repository\\Algorithms\\MaxProductOfTwoElementsInArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",

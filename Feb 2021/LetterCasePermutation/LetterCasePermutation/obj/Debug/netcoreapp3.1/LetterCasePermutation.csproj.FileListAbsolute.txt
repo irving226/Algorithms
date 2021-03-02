@@ -11,3 +11,16 @@ C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\obj\Debu
 C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.dll
 C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.pdb
 C:\Users\brian\source\repos\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.genruntimeconfig.cache
+D:\GitHub Repository\Algorithms\Feb 2021\LetterCasePermutation\LetterCasePermutation\bin\Debug\netcoreapp3.1\LetterCasePermutation.exe
+D:\GitHub Repository\Algorithms\Feb 2021\LetterCasePermutation\LetterCasePermutation\bin\Debug\netcoreapp3.1\LetterCasePermutation.deps.json
+D:\GitHub Repository\Algorithms\Feb 2021\LetterCasePermutation\LetterCasePermutation\bin\Debug\netcoreapp3.1\LetterCasePermutation.runtimeconfig.json
+D:\GitHub Repository\Algorithms\Feb 2021\LetterCasePermutation\LetterCasePermutation\bin\Debug\netcoreapp3.1\LetterCasePermutation.runtimeconfig.dev.json
+D:\GitHub Repository\Algorithms\Feb 2021\LetterCasePermutation\LetterCasePermutation\bin\Debug\netcoreapp3.1\LetterCasePermutation.dll
+D:\GitHub Repository\Algorithms\Feb 2021\LetterCasePermutation\LetterCasePermutation\bin\Debug\netcoreapp3.1\LetterCasePermutation.pdb
+D:\GitHub Repository\Algorithms\Feb 2021\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.csprojAssemblyReference.cache
+D:\GitHub Repository\Algorithms\Feb 2021\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.AssemblyInfoInputs.cache
+D:\GitHub Repository\Algorithms\Feb 2021\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.AssemblyInfo.cs
+D:\GitHub Repository\Algorithms\Feb 2021\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\Algorithms\Feb 2021\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.dll
+D:\GitHub Repository\Algorithms\Feb 2021\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.pdb
+D:\GitHub Repository\Algorithms\Feb 2021\LetterCasePermutation\LetterCasePermutation\obj\Debug\netcoreapp3.1\LetterCasePermutation.genruntimeconfig.cache

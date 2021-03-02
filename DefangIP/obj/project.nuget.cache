@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "edpqLpOfP7oi4z4urtjynntVMRUTOPvV8LbwItxfCv2hQK5j5mxPcdetcVb/wXeG+N9xfQdGnBNH+ZbuZZ7oQw==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub Repository\\Algorithms\\DefangIP\\DefangIP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

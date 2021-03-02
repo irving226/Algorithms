@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "huq74UZa7w50CxUGL/9TYZcSSv8ALoYDMQagyltA94uOXCCkRAwh9MeuS2cA02VFoUpg4h6XXGsIQkGII5ITpg==",
+  "dgSpecHash": "wS6SA/SYJfO6AF/53JeioqaHyugzpN3UoS4w+CGQ61qCqC/HVDVe4OKDn8HlpUZOqIZpAQT8GscyM9MjmFet5A==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\source\\LeetCode Excercises\\TwoSum\\TwoSum.csproj",
+  "projectFilePath": "D:\\GitHub Repository\\Algorithms\\TwoSum\\TwoSum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\source\\LeetCode Excercises\\ShuffleArray\\ShuffleArray.csproj": {}
+    "D:\\GitHub Repository\\Algorithms\\ShuffleArray\\ShuffleArray.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\source\\LeetCode Excercises\\ShuffleArray\\ShuffleArray.csproj": {
+    "D:\\GitHub Repository\\Algorithms\\ShuffleArray\\ShuffleArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\source\\LeetCode Excercises\\ShuffleArray\\ShuffleArray.csproj",
+        "projectUniqueName": "D:\\GitHub Repository\\Algorithms\\ShuffleArray\\ShuffleArray.csproj",
         "projectName": "ShuffleArray",
-        "projectPath": "D:\\Documents\\source\\LeetCode Excercises\\ShuffleArray\\ShuffleArray.csproj",
+        "projectPath": "D:\\GitHub Repository\\Algorithms\\ShuffleArray\\ShuffleArray.csproj",
         "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\source\\LeetCode Excercises\\ShuffleArray\\obj\\",
+        "outputPath": "D:\\GitHub Repository\\Algorithms\\ShuffleArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+D:\GitHub Repository\Algorithms\DefangIP\bin\Debug\netcoreapp3.1\DefangIP.exe
+D:\GitHub Repository\Algorithms\DefangIP\bin\Debug\netcoreapp3.1\DefangIP.deps.json
+D:\GitHub Repository\Algorithms\DefangIP\bin\Debug\netcoreapp3.1\DefangIP.runtimeconfig.json
+D:\GitHub Repository\Algorithms\DefangIP\bin\Debug\netcoreapp3.1\DefangIP.runtimeconfig.dev.json
+D:\GitHub Repository\Algorithms\DefangIP\bin\Debug\netcoreapp3.1\DefangIP.dll
+D:\GitHub Repository\Algorithms\DefangIP\bin\Debug\netcoreapp3.1\DefangIP.pdb
+D:\GitHub Repository\Algorithms\DefangIP\obj\Debug\netcoreapp3.1\DefangIP.csprojAssemblyReference.cache
+D:\GitHub Repository\Algorithms\DefangIP\obj\Debug\netcoreapp3.1\DefangIP.AssemblyInfoInputs.cache
+D:\GitHub Repository\Algorithms\DefangIP\obj\Debug\netcoreapp3.1\DefangIP.AssemblyInfo.cs
+D:\GitHub Repository\Algorithms\DefangIP\obj\Debug\netcoreapp3.1\DefangIP.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\Algorithms\DefangIP\obj\Debug\netcoreapp3.1\DefangIP.dll
+D:\GitHub Repository\Algorithms\DefangIP\obj\Debug\netcoreapp3.1\DefangIP.pdb
+D:\GitHub Repository\Algorithms\DefangIP\obj\Debug\netcoreapp3.1\DefangIP.genruntimeconfig.cache
