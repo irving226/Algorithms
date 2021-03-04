@@ -11,3 +11,16 @@ D:\Documents\source\LeetCode Excercises\LeetCodeExercises\obj\Debug\netcoreapp3.
 D:\Documents\source\LeetCode Excercises\LeetCodeExercises\obj\Debug\netcoreapp3.1\LeetCodeExercises.dll
 D:\Documents\source\LeetCode Excercises\LeetCodeExercises\obj\Debug\netcoreapp3.1\LeetCodeExercises.pdb
 D:\Documents\source\LeetCode Excercises\LeetCodeExercises\obj\Debug\netcoreapp3.1\LeetCodeExercises.genruntimeconfig.cache
+D:\GitHub Repository\Algorithms\LeetCodeExercises\bin\Debug\netcoreapp3.1\LeetCodeExercises.exe
+D:\GitHub Repository\Algorithms\LeetCodeExercises\bin\Debug\netcoreapp3.1\LeetCodeExercises.deps.json
+D:\GitHub Repository\Algorithms\LeetCodeExercises\bin\Debug\netcoreapp3.1\LeetCodeExercises.runtimeconfig.json
+D:\GitHub Repository\Algorithms\LeetCodeExercises\bin\Debug\netcoreapp3.1\LeetCodeExercises.runtimeconfig.dev.json
+D:\GitHub Repository\Algorithms\LeetCodeExercises\bin\Debug\netcoreapp3.1\LeetCodeExercises.dll
+D:\GitHub Repository\Algorithms\LeetCodeExercises\bin\Debug\netcoreapp3.1\LeetCodeExercises.pdb
+D:\GitHub Repository\Algorithms\LeetCodeExercises\obj\Debug\netcoreapp3.1\LeetCodeExercises.csprojAssemblyReference.cache
+D:\GitHub Repository\Algorithms\LeetCodeExercises\obj\Debug\netcoreapp3.1\LeetCodeExercises.AssemblyInfoInputs.cache
+D:\GitHub Repository\Algorithms\LeetCodeExercises\obj\Debug\netcoreapp3.1\LeetCodeExercises.AssemblyInfo.cs
+D:\GitHub Repository\Algorithms\LeetCodeExercises\obj\Debug\netcoreapp3.1\LeetCodeExercises.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\Algorithms\LeetCodeExercises\obj\Debug\netcoreapp3.1\LeetCodeExercises.dll
+D:\GitHub Repository\Algorithms\LeetCodeExercises\obj\Debug\netcoreapp3.1\LeetCodeExercises.pdb
+D:\GitHub Repository\Algorithms\LeetCodeExercises\obj\Debug\netcoreapp3.1\LeetCodeExercises.genruntimeconfig.cache
