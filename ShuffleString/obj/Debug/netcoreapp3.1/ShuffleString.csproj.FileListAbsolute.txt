@@ -1,0 +1,12 @@
+D:\GitHub Repository\Algorithms\ShuffleString\obj\Debug\netcoreapp3.1\ShuffleString.AssemblyInfoInputs.cache
+D:\GitHub Repository\Algorithms\ShuffleString\obj\Debug\netcoreapp3.1\ShuffleString.AssemblyInfo.cs
+D:\GitHub Repository\Algorithms\ShuffleString\obj\Debug\netcoreapp3.1\ShuffleString.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\Algorithms\ShuffleString\bin\Debug\netcoreapp3.1\ShuffleString.exe
+D:\GitHub Repository\Algorithms\ShuffleString\bin\Debug\netcoreapp3.1\ShuffleString.deps.json
+D:\GitHub Repository\Algorithms\ShuffleString\bin\Debug\netcoreapp3.1\ShuffleString.runtimeconfig.json
+D:\GitHub Repository\Algorithms\ShuffleString\bin\Debug\netcoreapp3.1\ShuffleString.runtimeconfig.dev.json
+D:\GitHub Repository\Algorithms\ShuffleString\bin\Debug\netcoreapp3.1\ShuffleString.dll
+D:\GitHub Repository\Algorithms\ShuffleString\bin\Debug\netcoreapp3.1\ShuffleString.pdb
+D:\GitHub Repository\Algorithms\ShuffleString\obj\Debug\netcoreapp3.1\ShuffleString.dll
+D:\GitHub Repository\Algorithms\ShuffleString\obj\Debug\netcoreapp3.1\ShuffleString.pdb
+D:\GitHub Repository\Algorithms\ShuffleString\obj\Debug\netcoreapp3.1\ShuffleString.genruntimeconfig.cache

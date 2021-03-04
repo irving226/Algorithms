@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoBinaryTrees", "..\M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefangIP", "..\DefangIP\DefangIP.csproj", "{74B3DF3A-8720-431C-B393-08C29626C046}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedCandies", "..\DistributedCandies\DistributedCandies.csproj", "{5400283D-5325-49C3-BC10-052767A2AF07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistributedCandies", "..\DistributedCandies\DistributedCandies.csproj", "{5400283D-5325-49C3-BC10-052767A2AF07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetMismatch", "..\SetMismatch\SetMismatch.csproj", "{F5E2BAF2-B96D-4403-AF0F-D95DE52573C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetMismatch", "..\SetMismatch\SetMismatch.csproj", "{F5E2BAF2-B96D-4403-AF0F-D95DE52573C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleString", "..\ShuffleString\ShuffleString.csproj", "{2B552F1D-4955-4283-9826-CB6A77E33CB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F5E2BAF2-B96D-4403-AF0F-D95DE52573C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5E2BAF2-B96D-4403-AF0F-D95DE52573C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5E2BAF2-B96D-4403-AF0F-D95DE52573C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B552F1D-4955-4283-9826-CB6A77E33CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B552F1D-4955-4283-9826-CB6A77E33CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B552F1D-4955-4283-9826-CB6A77E33CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B552F1D-4955-4283-9826-CB6A77E33CB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
