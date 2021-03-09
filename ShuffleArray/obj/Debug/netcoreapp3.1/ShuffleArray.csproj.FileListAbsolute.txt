@@ -1,0 +1,13 @@
+D:\GitHub Repository\Algorithms\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.exe
+D:\GitHub Repository\Algorithms\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.deps.json
+D:\GitHub Repository\Algorithms\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.runtimeconfig.json
+D:\GitHub Repository\Algorithms\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.runtimeconfig.dev.json
+D:\GitHub Repository\Algorithms\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.dll
+D:\GitHub Repository\Algorithms\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.pdb
+D:\GitHub Repository\Algorithms\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.csprojAssemblyReference.cache
+D:\GitHub Repository\Algorithms\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.AssemblyInfoInputs.cache
+D:\GitHub Repository\Algorithms\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.AssemblyInfo.cs
+D:\GitHub Repository\Algorithms\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\Algorithms\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.dll
+D:\GitHub Repository\Algorithms\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.pdb
+D:\GitHub Repository\Algorithms\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.genruntimeconfig.cache

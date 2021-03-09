@@ -1,0 +1,7 @@
+D:\GitHub Repository\Algorithms\RichestCustomerWealth\bin\Debug\RichestCustomerWealth.exe.config
+D:\GitHub Repository\Algorithms\RichestCustomerWealth\bin\Debug\RichestCustomerWealth.exe
+D:\GitHub Repository\Algorithms\RichestCustomerWealth\bin\Debug\RichestCustomerWealth.pdb
+D:\GitHub Repository\Algorithms\RichestCustomerWealth\obj\Debug\RichestCustomerWealth.csprojAssemblyReference.cache
+D:\GitHub Repository\Algorithms\RichestCustomerWealth\obj\Debug\RichestCustomerWealth.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\Algorithms\RichestCustomerWealth\obj\Debug\RichestCustomerWealth.exe
+D:\GitHub Repository\Algorithms\RichestCustomerWealth\obj\Debug\RichestCustomerWealth.pdb
