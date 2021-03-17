@@ -17,10 +17,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetMismatch", "..\SetMismat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShuffleString", "..\ShuffleString\ShuffleString.csproj", "{2B552F1D-4955-4283-9826-CB6A77E33CB5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountItemsMatchingRule", "..\CountItemsMatchingRule\CountItemsMatchingRule.csproj", "{15E6D33B-928A-4BF0-AD72-BFF97C927726}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleTheArray", "..\ShuffleTheArray\ShuffleTheArray.csproj", "{17A1D774-B6BD-4525-80FF-BD1C4AFDC180}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,14 +51,6 @@ Global
 		{2B552F1D-4955-4283-9826-CB6A77E33CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B552F1D-4955-4283-9826-CB6A77E33CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B552F1D-4955-4283-9826-CB6A77E33CB5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{15E6D33B-928A-4BF0-AD72-BFF97C927726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{15E6D33B-928A-4BF0-AD72-BFF97C927726}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{15E6D33B-928A-4BF0-AD72-BFF97C927726}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{15E6D33B-928A-4BF0-AD72-BFF97C927726}.Release|Any CPU.Build.0 = Release|Any CPU
-		{17A1D774-B6BD-4525-80FF-BD1C4AFDC180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17A1D774-B6BD-4525-80FF-BD1C4AFDC180}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17A1D774-B6BD-4525-80FF-BD1C4AFDC180}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17A1D774-B6BD-4525-80FF-BD1C4AFDC180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
